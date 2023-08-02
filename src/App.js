@@ -1,3 +1,4 @@
+import Project2B from "./Project2B";
 
 
 
@@ -5,7 +6,7 @@ function App() {
   return (
     <>
     <div>
-      hello
+    <Project2B/>
     </div>
     </>
   );
